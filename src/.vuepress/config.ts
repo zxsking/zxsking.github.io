@@ -14,7 +14,7 @@ import theme from "./theme.js";
 //总配置
 
 export default defineUserConfig({
-  base: "/gk-blog/",
+  base: "/",
 
   locales: {
     "/": {

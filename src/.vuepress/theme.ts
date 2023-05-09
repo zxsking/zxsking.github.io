@@ -32,7 +32,7 @@ export default hopeTheme({
   logo: "/favicon.png",
 
   // 仓库配置，用于在导航栏中显示仓库链接。
-  repo: "zxsking/gk-blog",
+  repo: "zxsking/zxsking.github.io",
 
   docsDir: "docs",
 
@@ -104,7 +104,6 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
       "/diary/": ["zxszxs666"]
     },
   },
