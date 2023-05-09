@@ -25,12 +25,7 @@ export const zhNavbar = navbar([
     text: "日记",
     icon: 'note',
     link: "/diary/",
-  },
-  // {
-  //   text: "更新中",
-  //   icon: 'note',
-  //   link: "/updateing/"
-  // }
+  }
 ]);
 
 
