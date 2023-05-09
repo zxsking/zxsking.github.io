@@ -10,7 +10,7 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" -->
 
-## 还没有想好要用这个干嘛
+## 还没有想好要用这个干嘛！
 
 <!-- .element: class="r-fit-text" -->
 
