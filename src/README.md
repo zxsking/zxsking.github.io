@@ -8,7 +8,7 @@ bgImage : https://w.wallhaven.cc/full/1p/wallhaven-1pd1o9.jpg
 # heroImage: /logo.svg
 heroText: Gking'blog
 heroFullScreen: true
-tagline: 自己来选择，不会后悔的道路
+tagline: 自己来选择，不会后悔的道路.
 
 projects:
   # - icon: project
