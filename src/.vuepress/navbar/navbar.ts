@@ -8,7 +8,7 @@ export const zhNavbar = navbar([
   {
     text: "英语",
     icon: "study",
-    prefix: "/program/",
+    prefix: "/english/",
     children: [
       "grammer/"
     ]
