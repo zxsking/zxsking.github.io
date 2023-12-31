@@ -6,7 +6,7 @@ title: 首页
 bgImage : https://w.wallhaven.cc/full/1p/wallhaven-1pd1o9.jpg
 # 主页  
 # heroImage: /logo.svg
-heroText: Gking'blog
+heroText: avery'blog
 heroFullScreen: true
 tagline: 自己来选择，不会后悔的道路.
 
