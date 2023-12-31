@@ -94,7 +94,7 @@ export default hopeTheme({
 
       blog: {
         avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1833736821&s=640',
-        description: "拼搏白天，我要上xxxxxx",
+        description: "拼搏百天，我要上xxxxxx",
         intro: "/intro.html",
       },
 

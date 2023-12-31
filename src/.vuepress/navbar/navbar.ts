@@ -6,6 +6,14 @@ export const zhNavbar = navbar([
   //导航栏
   "/",
   {
+    text: "英语",
+    icon: "study",
+    prefix: "/program/",
+    children: [
+      "grammer/"
+    ]
+  },
+  {
     text: "编程语言",
     icon: "discover",
     prefix: "/program/",
